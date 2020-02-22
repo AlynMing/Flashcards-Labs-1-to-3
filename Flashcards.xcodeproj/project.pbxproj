@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28C9A38D240108E000D7CEE7 /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 28C9A38C240108E000D7CEE7 /* ReadMe.md */; };
 		28E6F0F523F36487004FA980 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E6F0F423F36487004FA980 /* AppDelegate.swift */; };
 		28E6F0F723F36487004FA980 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E6F0F623F36487004FA980 /* SceneDelegate.swift */; };
 		28E6F0F923F36487004FA980 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E6F0F823F36487004FA980 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		28C9A38C240108E000D7CEE7 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		28E6F0F123F36487004FA980 /* Flashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28E6F0F423F36487004FA980 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28E6F0F623F36487004FA980 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 			children = (
 				28E6F0F323F36487004FA980 /* Flashcards */,
 				28E6F0F223F36487004FA980 /* Products */,
+				28C9A38C240108E000D7CEE7 /* ReadMe.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -127,6 +130,7 @@
 			files = (
 				28E6F10123F36488004FA980 /* LaunchScreen.storyboard in Resources */,
 				28E6F0FE23F36488004FA980 /* Assets.xcassets in Resources */,
+				28C9A38D240108E000D7CEE7 /* ReadMe.md in Resources */,
 				28E6F0FC23F36487004FA980 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
