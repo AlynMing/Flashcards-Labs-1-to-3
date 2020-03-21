@@ -8,7 +8,7 @@
 ### App Walk-though
 `TODO://` 
 
-<img src="https://recordit.co/CEUcOSamRw" width=200><br>
+<img src="http://g.recordit.co/CEUcOSamRw.gif" width=200><br>
 
 `TODO://` 
 
